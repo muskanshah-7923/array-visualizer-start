@@ -2,7 +2,7 @@
 
 // Global Variables
 let data = [];
-for (let n = 1; n <= 50; n++) {
+for (let n = 1; n <= 10; n++) {
   data.push(randomInt(0, 101));
 }
 let maxVal = 100; // max data value
